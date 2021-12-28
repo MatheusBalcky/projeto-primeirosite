@@ -33,7 +33,7 @@ header{
 }
 header > h1{
     font-family: var(--font-destaque);
-    font-size: 3.9em;
+    font-size: 3em;
     font-weight: normal;
     padding: 25px 10px 15px 10px;
     color: white;
@@ -79,7 +79,7 @@ main p{
     margin: 15px 0px;
     text-indent: 15px;
     text-align: justify;
-    line-height: 1.6em;
+    line-height: 1.7em;
 }
 main strong{
     color: var(--cor4);
